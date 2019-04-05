@@ -1,0 +1,334 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/user/Downloads/time-to-answer/app/models/admin.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/admins_backoffice_helper.rb": [
+        1,
+        1,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/admins_backoffice/admins_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/admins_backoffice/questions_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/admins_backoffice/subjects_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/admins_backoffice/welcome_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/site_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/site/welcome_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/users_backoffice_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/helpers/users_backoffice/welcome_helper.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/admins_backoffice/admins_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/admins_backoffice_controller.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/admins_backoffice/questions_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        null,
+        1,
+        0,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        1,
+        0,
+        null,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/models/answer.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/models/question.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/models/subject.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/site/welcome_controller.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/admins_backoffice/subjects_controller.rb": [
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/admins_backoffice/welcome_controller.rb": [
+        0,
+        null,
+        0,
+        0,
+        0
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/users_backoffice/welcome_controller.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/users_backoffice_controller.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/user/Downloads/time-to-answer/app/controllers/site_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/home/user/Downloads/time-to-answer/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/user/Downloads/time-to-answer/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/user/Downloads/time-to-answer/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1554411517
+  }
+}

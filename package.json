@@ -1,0 +1,19 @@
+{
+  "name": "time_to_answer",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "bootstrap": "^4.3.1",
+    "bootstrap-growl-ifightcrime": "^1.1.0",
+    "datatables": "^1.10.18",
+    "datatables.net": "^1.10.19",
+    "datatables.net-bs4": "^1.10.19",
+    "jquery": "^3.3.1",
+    "jquery.easing": "^1.4.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/laisns/time-to-answer.git",
+  "author": "Laís Nascimento <lais.sdsn@gmail.com>",
+  "license": "MIT"
+}
